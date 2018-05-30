@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <libraryBooks>
+        <title>Cat In The Hat</title>
+        <genre>Children's Fiction</genre>
+        <date>3910-04-05T00:00:00.000-05:00</date>
+        <authors>
+            <author>
+                <firstName>Theodor</firstName>
+                <lastName>Seuss Geisel</lastName>
+            </author>
+        </authors>
+    </libraryBooks>
+    <libraryBooks>
+        <title>Cat In The Hat</title>
+        <genre>Children's Fiction</genre>
+        <date>3910-04-05T00:00:00.000-05:00</date>
+        <authors>
+            <author>
+                <firstName>Theodor</firstName>
+                <lastName>Seuss Geisel</lastName>
+            </author>
+        </authors>
+    </libraryBooks>
+    <libraryBooks>
+        <title>Cat In The Hat</title>
+        <genre>Children's Fiction</genre>
+        <date>3910-04-05T00:00:00.000-05:00</date>
+        <authors>
+            <author>
+                <firstName>Theodor</firstName>
+                <lastName>Seuss Geisel</lastName>
+            </author>
+        </authors>
+    </libraryBooks>
+    <libraryBooks>
+        <title>Cat In The Hat</title>
+        <genre>Children's Fiction</genre>
+        <date>3910-04-05T00:00:00.000-05:00</date>
+        <authors>
+            <author>
+                <firstName>Theodor</firstName>
+                <lastName>Seuss Geisel</lastName>
+            </author>
+        </authors>
+    </libraryBooks>
+    <libraryBooks>
+        <title>Cat In The Hat</title>
+        <genre>Children's Fiction</genre>
+        <date>3910-04-05T00:00:00.000-05:00</date>
+        <authors>
+            <author>
+                <firstName>Theodor</firstName>
+                <lastName>Seuss Geisel</lastName>
+            </author>
+        </authors>
+    </libraryBooks>
+    <libraryBooks>
+        <title>Cat In The Hat</title>
+        <genre>Children's Fiction</genre>
+        <date>3910-04-05T00:00:00.000-05:00</date>
+        <authors>
+            <author>
+                <firstName>Theodor</firstName>
+                <lastName>Seuss Geisel</lastName>
+            </author>
+        </authors>
+    </libraryBooks>
+    <libraryName>Memphis Public</libraryName>
+    <address>123 Fake Street</address>
+    <librarians>
+        <age>17</age>
+        <name>Larry</name>
+        <salary>10</salary>
+    </librarians>
+    <librarians>
+        <age>50</age>
+        <name>Marry</name>
+        <salary>8</salary>
+    </librarians>
+    <librarians>
+        <age>41</age>
+        <name>Jerry</name>
+        <salary>20</salary>
+    </librarians>
+</library>
